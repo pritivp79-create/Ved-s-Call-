@@ -1,0 +1,6 @@
+{
+  "name": "Ved's Call",
+  "description": "Customizable Call Theme App featuring authentic dialer and call screen themes for Lenovo, Huawei, MI, Samsung, Oppo, Vivo, OnePlus, Realme, Sony, and Jolt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
